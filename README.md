@@ -1,4 +1,4 @@
-**Online Bookstore**
+**Bookshelf Emporium**
 
 ### About
 
