@@ -12,7 +12,7 @@ public class MyBookList {
 	@Id
 	@Column(name="book_id")
 	private int id;
-	private String name;
+	private String name; 
 	private String author;
 	private String price;
 	public MyBookList() {
