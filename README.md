@@ -9,7 +9,7 @@ A user-friendly Online Bookstore project in which users can log in or register, 
 <span style="color:blue">**Admin Have Following Access for this online store site:-**</span>
 - Add New Books.
 - View Books Available.
-- Remove Books.
+- Remove Books. 
 - Edit Books.
 
 ### Technologies used:-
