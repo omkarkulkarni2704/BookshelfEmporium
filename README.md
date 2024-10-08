@@ -10,7 +10,7 @@ A user-friendly Online Bookstore project in which users can log in or register, 
 - Add New Books.
 - View Books Available.
 - Remove Books. 
-- Edit Books.
+- Edit Books. 
 
 ### Technologies used:-
 1. Front-End Development:
