@@ -1,8 +1,7 @@
-# <a href="http://localhost:1001/" target="_blank"> Bookshelf Emporium </a> 
-**<a href="https://omkarkulkarni2704.github.io/BookshelfEmporium/" target="_blank"> Bookshelf Emporium </a>**
+# Bookshelf Emporium
 
 
-### About 
+## About 
 
 A user-friendly Online Bookstore project in which users can log in or register, view the available books, select books along with their quantity, and buy them. Users can also get payment receipts after successful payment. The project can also be used by the administrator, who can add new books, remove books, increase and decrease the quantity of books, change the price of the books as well as maintain the selling history of books.
 
@@ -12,13 +11,13 @@ A user-friendly Online Bookstore project in which users can log in or register, 
 - Remove Books. 
 - Edit Books. 
 
-### Technologies used:-
-1. Front-End Development:
+## Technologies used:-
+### 1. Front-End Development:
 - HTML
 - CSS
 - BootStrap 5
 
-2. Back-End Development:
+### 2. Back-End Development:
 - Java 
 - Spring Boot
 - Spring Data JPA
@@ -26,7 +25,7 @@ A user-friendly Online Bookstore project in which users can log in or register, 
 - MySQL Driver
 - XML
 
-3. Database:
+### 3. Database:
 - MySQL
   
 ![Screenshot (85)](https://github.com/omkarkulkarni2704/BookshelfEmporium/assets/89896505/dc393a97-7475-42e8-adc7-35b13b62f821)
