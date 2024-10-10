@@ -1,5 +1,4 @@
-# Bookshelf Emporium
-
+# Bookshelf Emporium  
 
 ## About 
 
@@ -12,6 +11,7 @@ A user-friendly Online Bookstore project in which users can log in or register, 
 - Edit Books. 
 
 ## Technologies used:-
+
 ### 1. Front-End Development:
 - HTML
 - CSS
