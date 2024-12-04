@@ -10,7 +10,7 @@ A user-friendly Online Bookstore project in which users can log in or register, 
 - Remove Books. 
 - Edit Books.
 
-## Key Features
+## Key Features:
 
 ### 1. For Users:
 - User Authentication: Secure login and registration system.
